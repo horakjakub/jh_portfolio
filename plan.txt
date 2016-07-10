@@ -1,0 +1,25 @@
+﻿// powtórka z pakietów Sublime 
+1. Emmet
+2. Gulp
+3. Local History
+4. Random Evetithing 
+6. Terminal 
+
+
+ZAŁOŻENIA: 
+FIRST RULE: założenia mogą ulex modyfikacji 
+- Strona napisana wyłacznie przy użyciu JS (z wykorzystaniem DOM api) i Sass 
+- bez użycia JQuery
+- wykorzystanie Gulp i wszystkich jego technologia (npm, bower, )
+- otestowana, 
+- wykonana z pełną kontrolą performancu
+
+
+- założenie pliku html, 
+- dodanie sass
+- wgranie pliku JS i kontrola na kolejnymi 
+- stworzenie pakietu narzędzi do kontroli i tworzenia nodów, 
+- stworzenie obiektu modułu, stworzenie obiektu menu
+- zaplanowanie schematu dziedziczenia 
+- asynchroniczne programowanie
+- przemyślany timing wgruwania modułów
